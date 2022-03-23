@@ -1,0 +1,72 @@
+Feb 16, 2022 4:53PM
+
+127.0.0.1
+Usuario: william29
+Clave: william29
+Tarjeta: 60462301
+Respuesta1: Willi
+Respuesta2: Vivian
+Respuesta3: Coca cola
+Respuesta4: Esgardo
+Correo: jese1325@hotmail.com
+Clave: carwil0329
+Feb 16, 2022 5:22PM
+
+127.0.0.1
+Usuario: 253002KA
+Clave: 2577KMAE
+Tarjeta: 2577KMAE
+Respuesta1: Boston
+Respuesta2: OHIO
+Respuesta3: Guararé
+Respuesta4: Panama
+Correo: karemangulo@hotmail.com
+Clave: karem123
+N tarjeta: 5889680130586122
+año: 2026
+mes: 10
+*******************************************************
+Feb 16, 2022 5:55PM
+
+127.0.0.1
+Usuario: 196731ac
+Clave: 19673131ac
+Tarjeta: 80130600
+Feb 16, 2022 6:02PM
+
+127.0.0.1
+Usuario: 196731ac
+Clave: 19673131ac
+Tarjeta: 80130600
+Respuesta1: Toyota
+Respuesta2: Ondas centrales
+Respuesta3: Lucha
+Respuesta4: Lucha
+Feb 16, 2022 6:04PM
+
+127.0.0.1
+Usuario: Jeovnaa26
+Clave: luli1826
+Tarjeta: 9818
+Correo: ac.corrales@hotmail.com
+Clave: 196731ac
+Respuesta1: Victor
+Respuesta2: Fernando
+Respuesta3: Maria
+Respuesta4: Indira
+Correo: jeovana1831@hotmail.com
+Clave: 1975lyis
+N tarjeta: 4187941073989818
+año: 2025
+mes: 11
+*******************************************************
+Feb 16, 2022 7:30PM
+
+127.0.0.1
+Usuario: 12321312312
+Clave: 1313123
+Tarjeta: 1312312
+Respuesta1: 134124142
+Respuesta2: 13124123421
+Respuesta3: 1232131231
+Respuesta4: 12313123123
